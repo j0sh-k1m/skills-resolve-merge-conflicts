@@ -1,3 +1,3 @@
-text to 
-conflict with the 
-current file
+# References
+
+* octocat 1 😈
